@@ -1,1 +1,1 @@
-# price-landing-page
+Price landing page is a web page specifically designed to showcase and highlight pricing information for a product, service, or subscription. The goal of a price landing page is to provide potential customers with clear details about the cost and value of what is being offered, ultimately encouraging them to make a purchase or sign up for a service.
